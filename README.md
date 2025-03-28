@@ -162,7 +162,7 @@ Before we dive into kernel-mode malware and rootkit techniques, it's important t
 
 - **Memory Management in Kernel Mode**  
   The best starting point for these aspects is tutorials written by Four-F:  
-  - [How The Kernel Manages Your Memory]([http://www.freewebs.com/four-f/](https://manybutfinite.com/post/how-the-kernel-manages-your-memory/))
+  - [How The Kernel Manages Your Memory](https://manybutfinite.com/post/how-the-kernel-manages-your-memory/)
 
 - **Handling IRPs (I/O Request Packets)**  
   A must-read for driver writers:  
