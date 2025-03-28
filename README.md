@@ -173,7 +173,7 @@ Before we dive into kernel-mode malware and rootkit techniques, it's important t
   - [Windows Kernel Programming (First Edition)](REbooks/Windows_Kernel_Programming_Pavel_Yosifovich.pdf) *(Available in the REbooks folder)*
   - [Windows Kernel Programming, 2nd Edition](REbooks/Windows_Kernel_Programming_2nd_Edition_Pavel_Yosifovich.pdf) *(Available in the REbooks folder)*
   - [Windows NT Device Driver Development](REbooks/Windows_NT_Device_Driver_Development.pdf) *(Available in the REbooks folder)*
-  - [Windows Internals, Part 1, 7th Edition - 2017](REbooks/WinInternals_p1.zip) *(Available in the REbooks folder just extrat the zip)*
+  - [Windows Internals, Part 1, 7th Edition - 2017](https://dn790000.ca.archive.org/0/items/windows-internals-part1-7th/windows-internals-part1-7th.pdf)
   - [Windows Internals, 7th Edition, Part 2 - 2021](REbooks/WinInternals_p2.zip) *(Available in the REbooks folder just extrat the zip)*
 
 
