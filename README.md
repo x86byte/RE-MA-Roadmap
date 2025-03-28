@@ -69,7 +69,6 @@ Welcome to the comprehensive roadmap for mastering reverse engineering and malwa
 - [Intro to x86 Assembly Language](https://www.youtube.com/playlist?list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe)
 - [x86_64 Linux Assembly](https://www.youtube.com/playlist?list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn)
 - [Intro x86 (32 bit)](https://www.youtube.com/playlist?list=PL038BE01D3BAEFDB0)
-- [Assembly Programming Tutorial](https://www.tutorialspoint.com/assembly_programming/index.html)
 - [Practical x64 Assembly and C++ Tutorials](https://www.youtube.com/playlist?list=PL0C5C980A28FEE68D)
 - [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](http://opensecuritytraining.info/IntroX86.html)
 - [LINUX SYSTEM CALL TABLE FOR X86 64](https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/)
@@ -89,10 +88,8 @@ Welcome to the comprehensive roadmap for mastering reverse engineering and malwa
 - [Assembly Language Succinctly](https://www.syncfusion.com/ebooks/assemblylanguage)
 - [Everything you want to know about x86 microcode, but might have been afraid to ask](https://media.ccc.de/v/34c3-9058-everything_you_want_to_know_about_x86_microcode_but_might_have_been_afraid_to_ask)
 - [Beginner Write your first Assembly Language program – Hello World!! [explained]](http://cssimplified.com/computer-organisation-and-assembly-language-programming/beginner-write-your-first-assembly-language-program-hello-world-explained)
-- [Assembly Language: How To Learn To Code Assembly Today](https://www.whoishostingthis.com/resources/assembly-language/)
 - [Quick Guide to Assembly in 161 - Berkeley](https://inst.eecs.berkeley.edu/~cs161/sp15/discussions/dis06-assembly.pdf)
 - [godbolt.org - Code ↔️ Assembly](https://godbolt.org/)
-- [A gentle introduction into ARM assembly](https://www.shadowinfosec.io/2018/05/a-gentle-introduction-into-arm-assembly.html)
 - [Introduction to ARM](http://opensecuritytraining.info/IntroARM.html)
 - [INTRODUCTION TO ARM ASSEMBLY BASICS](https://azeria-labs.com/writing-arm-assembly-part-1/)
 
