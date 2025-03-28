@@ -92,7 +92,8 @@ Welcome to the comprehensive roadmap for mastering reverse engineering and malwa
 - [godbolt.org - Code ↔️ Assembly](https://godbolt.org/)
 - [Introduction to ARM](http://opensecuritytraining.info/IntroARM.html)
 - [INTRODUCTION TO ARM ASSEMBLY BASICS](https://azeria-labs.com/writing-arm-assembly-part-1/)
-
+- [Art of Assembly Language, The - Hyde, Randall](./REbooks/Art%20of%20Assembly%20Language%2C%20The%20-%20Hyde%2C%20Randall.pdf)
+- [Assembly Language Step-by-Step: Programming with Linux - Duntemann, Jeff](./REbooks/Assembly%20Language%20Step-by-Step_%20Programming%20with%20Linux%20-%20Duntemann%2C%20Jeff.pdf)
 
 ### 0x07 Programming for Reverse Engineering
 - C/C++, Python, and Assembly
@@ -101,6 +102,14 @@ Welcome to the comprehensive roadmap for mastering reverse engineering and malwa
   - x86 Assembly: [Iczelion's tutorial](https://github.com/VishalRashmika/Iczelions-Assembly-Tutorials/blob/main/README.md), [Win32 Assembler for Crackers by Goppit](https://www.scribd.com/document/659839309/Win32-Assembler-Coding-for-Crackers-PL-Kody-zrodlowe)
   - C/C++: [The C Programming language - by Kernighan & Ritchie](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628), [The C++ Programming language](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840), [Linux Programming by example - by Kurt Wall](https://www.amazon.com/Linux-System-Programming-Embedded-Developers/dp/1593272200)
 - [Windows System Programming](https://www.amazon.com/Windows-System-Programming-4th-Addison-Wesley/dp/0321657748) book
+
+### Start Now with These Books!
+After all this learning, you can now start with these essential books on **Reverse Engineering & Exploitation**:
+
+#### Reverse Engineering & Exploitation
+- [Reversing: Secrets of Reverse Engineering - Eilam, Eldad](./REbooks/Reversing_%20Secrets%20of%20Reverse%20Engineering%20-%20Eilam%2C%20Eldad.pdf)
+- [Practical Reverse Engineering: x86, x64, ARM, Windows Kernel - Dang, Bruce & Gazet, Alexandre & Bachaalany, Elias](./REbooks/Practical%20Reverse%20Engineering_%20x86%2C%20x64%2C%20ARM%2C%20Windows%20Kernel%2C%20Rev%20Obfuscation%20-%20Dang%2C%20Bruce%20%26%20Gazet%2C%20Alexandre%20%26%20Bacha%E2%80%A6.pdf)
+
 
 ## Malware Unpacking
 ### 0x08 Manual Unpacking Techniques
@@ -145,8 +154,6 @@ Welcome to the comprehensive roadmap for mastering reverse engineering and malwa
 
 ## Learning Resources
 ### 0x0d Courses and Tutorials
-- [Reversing: Secrets of Reverse Engineering Paperback – Illustrated, 1 April 2005](https://www.amazon.com.au/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817)
-- [Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation 1st Edition](https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315)
 - [Mytechnotalent's Reverse Engineering Repository](https://github.com/mytechnotalent/Reverse-Engineering)
 - [Octopus Labs](http://legend.octopuslabs.io/sample-page.html)
 - [Open Security Training](http://opensecuritytraining.info/Training.html)
@@ -163,7 +170,7 @@ Welcome to the comprehensive roadmap for mastering reverse engineering and malwa
 - [DuMp-GuY TrIcKsTeR](https://www.youtube.com/user/hexacorn)
 
 ### 0x0f Recommended Books
-- [Practical Malware Analysis: A Hands-On Guide to Dissecting Malicious Software](https://www.amazon.com/Practical-Malware-Analysis-Hands-On-Dissecting/dp/1593272901)
+- [Practical Malware Analysis: A Hands-On Guide to Dissecting Malicious Software](./REbooks/Practical%20Malware%20Analysis_%20The%20Hands-On%20Guide%20to%20Dissecting%20Malicious%20Software%20-%20Sikorski%2C%20Michael%20%26%20Honig%2C%20Andrew.pdf)
 - [The Art of Computer Virus Research and Defense – Peter Szor](https://www.amazon.com/Art-Computer-Virus-Research-Defense/dp/0321304543)
 - ["The "Ultimate"Anti-Debugging Reference" – by Peter Ferrie](https://www.amazon.com/Ultimate-Anti-Debugging-Reference-Peter-Ferrie/dp/1500494501)
 - [Malware Analyst's Cookbook and DVD: Tools and Techniques for Fighting Malicious Code](https://www.amazon.com/Malware-Analysts-Cookbook-DVD-Techniques/dp/0470613033)
@@ -171,7 +178,6 @@ Welcome to the comprehensive roadmap for mastering reverse engineering and malwa
 - [The Rootkit Arsenal: Escape and Evasion in the Dark Corners of the System](https://www.amazon.com/Rootkit-Arsenal-Escape-Evasion-Corners/dp/144962636X)
 - [Rootkits and Bootkits – by Alex Matrosov, Eugene Rodionov, and Sergey Bratus](https://www.amazon.com/Rootkits-Bootkits-Alex-Matrosov/dp/1593277164)
 - [Windows System Programming (4th edition) – by Johnson M. Hart](https://www.amazon.com/Windows-System-Programming-4th-Addison-Wesley/dp/0321657748)
-- [Gray Hat Python](https://www.amazon.com/Gray-Hat-Python-Programming-Engineers/dp/1593271921)
 
 ## Tips and Advice
 ### 0x10 Staying Motivated and Advancing Your Career
@@ -233,7 +239,6 @@ This comprehensive roadmap provides a step-by-step guide for mastering reverse e
 - [Capstone](https://www.capstone-engine.org/)
 - [Radare2](https://www.radare.org/)
 - [Binary Ninja](https://binary.ninja/)
-- [Metasploit Framework](https://www.metasploit.com/)
 
 ### Online Platforms and Challenges
 - [MalwareBazaar](https://bazaar.abuse.ch/)
@@ -242,6 +247,15 @@ This comprehensive roadmap provides a step-by-step guide for mastering reverse e
 - [Flare-On Challenge](https://www.fireeye.com/blog/threat-research/2019/08/announcing-the-sixth-annual-flare-on-challenge.html)
 - [CTFTime](https://ctftime.org/)
 - [Hack The Box](https://www.hackthebox.eu/)
+
+
+
+
+## Upcoming Resources
+
+I will be adding some random books to the **REbooks** folder soon. Stay tuned for more resources!
+
+
 
 ## Acknowledgments
 A big thank you to all the researchers, authors, and contributors who have shared their knowledge and resources in the field of reverse engineering and malware analysis. This roadmap wouldn't have been possible without their valuable contributions.
