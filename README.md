@@ -138,16 +138,74 @@ After all this learning, you can now start with these essential books on **Rever
 - [Simple userland rootkit - a case study](https://blog.malwarebytes.com/threat-analysis/2016/12/simple-userland-rootkit-a-case-study/)
 
 ### 0x0b Kernel-mode Malware
+
+Before we dive into kernel-mode malware and rootkit techniques, it's important to understand the fundamentals of driver development and kernel programming. Below are some great starting points that will guide you through these concepts and provide a solid foundation.
+
+#### Basic Driver Development Resources
+
+1. **Driver Development Part 1: Introduction to Drivers**  
+   [CodeProject: Introduction to Drivers](https://www.codeproject.com/articles/9504/driver-development-part-1-introduction-to-drivers)
+
+2. **Driver Development Part 2: Introduction to Implementing IOCTLs**  
+   [CodeProject: Introduction to Implementing IOCTLs](https://www.codeproject.com/articles/9575/driver-development-part-2-introduction-to-implemen)
+
+3. **Driver Development Part 3: Introduction to Driver Contexts**  
+   [CodeProject: Introduction to Driver Contexts](https://www.codeproject.com/articles/9636/driver-development-part-3-introduction-to-driver-c)
+
+4. **Driver Development Part 5: Introduction to the Transport Device Interface**  
+   [CodeProject: Introduction to Transport Device Interface](https://www.codeproject.com/articles/9974/driver-development-part-5-introduction-to-the-tran)
+
+5. **Driver Development Part 6: Introduction to Display Drivers**  
+   [CodeProject: Introduction to Display Drivers](https://www.codeproject.com/articles/12878/driver-development-part-6-introduction-to-display)
+
+#### Additional Resources
+
+- **Memory Management in Kernel Mode**  
+  The best starting point for these aspects is tutorials written by Four-F:  
+  - [How The Kernel Manages Your Memory]([http://www.freewebs.com/four-f/](https://manybutfinite.com/post/how-the-kernel-manages-your-memory/))
+
+- **Handling IRPs (I/O Request Packets)**  
+  A must-read for driver writers:  
+  - [Microsoft: Handling IRPs](https://learn.microsoft.com/en-us/windows-hardware/drivers/kernel/handling-irps)
+
+#### Important Books for Kernel and Driver Development
+
+  - [Windows Kernel Programming (First Edition)](REbooks/Windows_Kernel_Programming_Pavel_Yosifovich.pdf) *(Available in the REbooks folder)*
+  - [Windows Kernel Programming, 2nd Edition](REbooks/Windows_Kernel_Programming_2nd_Edition_Pavel_Yosifovich.pdf) *(Available in the REbooks folder)*
+  - [Windows NT Device Driver Development](REbooks/Windows_NT_Device_Driver_Development.pdf) *(Available in the REbooks folder)*
+  - [Windows Internals, Part 1, 7th Edition - 2017](REbooks/WinInternals.zip) *(Available in the REbooks folder just extrat the zip)*
+  - [Windows Internals, 7th Edition, Part 2 - 2021](REbooks/WinInternals.zip) *(Available in the REbooks folder just extrat the zip)*
+
+
+#### Web Resources
+
+- **OSR Online**: The first and most important resource about Windows Driver Development  
+  [OSR Online](http://www.osronline.com/)
+
+- **Other Useful Blogs and Resources**  
+  - [J00ru Blog - Reverse Engineering & Kernel Research](http://j00ru.vexillium.org/)  
+  - [Rootkit Analysis Tutorial PDF](https://www.sekoia.fr/blog/wp-content/uploads/2016/10/Rootkit-analysis-Use-case-on-HIDEDRV-v1.6.pdf) *(available in the current repo under the REbooks folder)*
+
+#### Transition to Kernel-mode Malware
+
+Once you’ve gone through these foundational resources, you’ll have a better understanding of driver development, IRPs, memory management, and more. Now we can proceed to advanced topics like kernel-mode malware, rootkit analysis, and related techniques.
+
+---
+
+#### Key Resources for Kernel-mode Malware and Rootkit Techniques
+
 - [Starting with Windows Kernel Exploitation - setting up the lab](https://hshrzd.wordpress.com/2017/05/28/starting-with-windows-kernel-exploitation-part-1-setting-up-the-lab/)
-- [Windows Kernel Programming](https://www.amazon.com/Windows-Internals-Part-Developer-Reference/dp/0735684189) book
 - [Brief introduction to driver analysis methods by Matt Hand](https://hshrzd.wordpress.com/2017/05/28/starting-with-windows-kernel-exploitation-part-1-setting-up-the-lab/)
-- [Additional guidance on driver reversing from VoidSec](https://voidsec.com/windows-driver-reversing-part-1/)
 - [Rootkit analysis tutorial](http://www.sekoia.fr/blog/wp-content/uploads/2016/10/Rootkit-analysis-Use-case-on-HIDEDRV-v1.6.pdf)
-- Kernel-mode rootkit techniques:
-  - [Hooking IDT](https://resources.infosecinstitute.com/hooking-idt/)
-  - [SSDT hooks](https://www.adlice.com/kernelmode-rootkits-part-1-ssdt-hooks/)
-  - [IRP hooks](https://www.adlice.com/kernelmode-rootkits-part-2-irp-hooks/)
-  - [Kernel filters](https://www.adlice.com/kernelmode-rootkits-part-3-kernel-filters/)
+
+#### Kernel-mode Rootkit Techniques:
+
+- [Hooking IDT](https://resources.infosecinstitute.com/hooking-idt/)
+- [SSDT hooks](https://www.adlice.com/kernelmode-rootkits-part-1-ssdt-hooks/)
+- [IRP hooks](https://www.adlice.com/kernelmode-rootkits-part-2-irp-hooks/)
+- [Kernel filters](https://www.adlice.com/kernelmode-rootkits-part-3-kernel-filters/)
+
+
 
 ### 0x0c Going Deeper
 - [Malware infecting MBR, bootkits, and UEFI firmware](https://securelist.com/bootkits-the-ultimate-in-persistent-malware/58221/)
