@@ -17,7 +17,6 @@ Welcome to the comprehensive roadmap for mastering reverse engineering and malwa
 
 ## Gathering Intelligence
 ### 0x02 Sourcing Malware Samples
-- [MalwareBreakdown](https://malwarebreakdown.com/)
 - [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/)
 - [VX Underground](https://vx-underground.org/samples.html)
 - [Malshare](http://www.malshare.com/)
