@@ -24,6 +24,8 @@ Welcome to the comprehensive roadmap for mastering reverse engineering and malwa
 - [Abuse.ch](https://bazaar.abuse.ch/)
 - [TheZoo](http://thezoo.morirt.com/)
 - [VirusBay](https://beta.virusbay.io/)
+- [MalwareBazaar](https://bazaar.abuse.ch/browse/)
+- [VirusSign](https://www.virussign.com/)
 
 ### 0x03 Gathering Threat Intelligence
 - [Benkow](http://benkow.cc)
