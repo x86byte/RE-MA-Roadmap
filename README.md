@@ -36,6 +36,12 @@ Welcome to the comprehensive roadmap for mastering reverse engineering and malwa
 
 ## Practical Exercises
 ### 0x05 Beginner Challenges and Writeups
+- first of all :
+  + [Windows Stack Protection I: Assembly Code](https://www.bowneconsultingcontent.com//pub/EH/proj/cloud/ED301c_tkp/ED301c_tkp.htm) 
+  + [Windows Stack Protection II: Exploit Without ASLR](https://www.bowneconsultingcontent.com//pub/EH/proj/cloud/ED302c_tkp/ED302c_tkp.htm) 
+  + [Windows Stack Protection III: Limitations of ASLR](https://www.bowneconsultingcontent.com//pub/EH/proj/cloud/ED303c_tkp/ED303c_tkp.htm) 
+  + [The Wild World of Windows](https://samsclass.info/127/lec/EDch6.pdf)
+
 - [Beginner Malware Reversing Challenges (by Malware Tech)](https://github.com/MalwareTech/Beginner-Reversing-Challenges)
 - [solve the Malwarebytes CrackMe: a step-by-step tutorial](https://www.malwarebytes.com/blog/news/2017/11/how-to-solve-the-malwarebytes-crackme-a-step-by-step-tutorial)
 - [MalwareTech Windows Reversing Challenge #1 Write-Ups](https://irfanalditya.github.io/posts/malwaretech-chal1/)
@@ -101,6 +107,7 @@ Welcome to the comprehensive roadmap for mastering reverse engineering and malwa
   - x86 Assembly: [Iczelion's tutorial](https://github.com/VishalRashmika/Iczelions-Assembly-Tutorials/blob/main/README.md), [Win32 Assembler for Crackers by Goppit](https://www.scribd.com/document/659839309/Win32-Assembler-Coding-for-Crackers-PL-Kody-zrodlowe)
   - C/C++: [The C Programming language - by Kernighan & Ritchie](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628), [The C++ Programming language](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840), [Linux Programming by example - by Kurt Wall](https://www.amazon.com/Linux-System-Programming-Embedded-Developers/dp/1593272200)
 - [Windows System Programming](https://www.amazon.com/Windows-System-Programming-4th-Addison-Wesley/dp/0321657748) book
+- [CPP / C++ Notes - Windows API Programming Win32](https://web.archive.org/web/20220407010232mp_/https://caiorss.github.io/C-Cpp-Notes/WindowsAPI-cpp.html)
 
 ### Start Now with These Books!
 After all this learning, you can now start with these essential books on **Reverse Engineering & Exploitation**:
@@ -141,7 +148,7 @@ After all this learning, you can now start with these essential books on **Rever
 Before we dive into kernel-mode malware and rootkit techniques, it's important to understand the fundamentals of driver development and kernel programming. Below are some great starting points that will guide you through these concepts and provide a solid foundation.
 
 #### Basic Driver Development Resources
-
+- [Catalog of key Windows kernel data structures](https://web.archive.org/web/20211106153221mp_/https://codemachine.com/articles/kernel_structures.html)
 1. **Driver Development Part 1: Introduction to Drivers**  
    [CodeProject: Introduction to Drivers](https://www.codeproject.com/articles/9504/driver-development-part-1-introduction-to-drivers)
 
@@ -162,11 +169,33 @@ Before we dive into kernel-mode malware and rootkit techniques, it's important t
 - **Memory Management in Kernel Mode**  
   The best starting point for these aspects is tutorials written by Four-F:  
   - [How The Kernel Manages Your Memory](https://manybutfinite.com/post/how-the-kernel-manages-your-memory/)
-
-- **Handling IRPs (I/O Request Packets)**  
-  A must-read for driver writers:  
-  - [Microsoft: Handling IRPs](https://learn.microsoft.com/en-us/windows-hardware/drivers/kernel/handling-irps)
-
+  - [Driver Basics - DMA Concepts](https://www.osronline.com/article.cfm%5Earticle=539.htm)
+  - [X-DMA - Extreme DMA for Performance](https://www.osronline.com/article.cfm%5Earticle=19.htm)
+  - [MmMapLockedPages(SpecifyCache) with AccessMode == UserMode](https://www.osronline.com/article.cfm%5earticle=26.htm)
+  - [A Common Topic Explained - Sharing Memory Between Drivers and Applications](https://www.osronline.com/article.cfm%5earticle=39.htm)
+  - [Windows NT Virtual Memory (Part I)](https://www.osronline.com/article.cfm%5earticle=71.htm)
+  - [Windows NT Virtual Memory (Part II)](https://www.osronline.com/article.cfm%5earticle=60.htm)
+  - [Finding File Contents in Memory](https://www.osronline.com/article.cfm%5earticle=280.htm)
+ 
+- **Handling IRPs (I/O Request Packets)**
+  - [Properly Pending IRPs - IRP Handling for the Rest of Us](https://www.osronline.com/article.cfm%5earticle=21.htm)
+  - [Proper Completion -- Resubmitting IRPs from within a Completion Routine](https://www.osronline.com/article.cfm%5earticle=391.htm)
+  - [Rules for Irp Dispatching and Completion Routines](https://www.osronline.com/article.cfm%5earticle=214.htm)
+  - [Beyond IRPs: Driver to Driver Communications](https://www.osronline.com/article.cfm%5earticle=177.htm)
+  - [IrpTracker](https://www.osronline.com/article.cfm%5earticle=199.htm)
+  - [Rolling Your Own - Building IRPs to Perform I/O](https://www.osronline.com/article.cfm%5Earticle=87.htm)
+  - [The Truth About Cancel - IRP Cancel Operations (Part I)](https://www.osronline.com/article.cfm%5Earticle=78.htm)
+  - [The Truth About Cancel - IRP Cancel Operations (Part II)](https://www.osronline.com/article.cfm%5earticle=72.htm)
+    
+  ~ A must-read for driver writers:  
+    - [Microsoft: Handling IRPs](https://learn.microsoft.com/en-us/windows-hardware/drivers/kernel/handling-irps)
+  
+- **The Basics:Bugchecks Explained**
+  + [https://www.osronline.com/article.cfm%5earticle=334.htm](PFN_LIST_CORRUPT)
+  + [https://www.osronline.com/article.cfm%5Earticle=335.htm](PAGE_FAULT_IN_NONPAGED_AREA)
+  + [https://www.osronline.com/article.cfm%5earticle=336.htm](KERNEL_DATA_INPAGE_ERROR)
+  + [https://www.osronline.com/article.cfm%5Earticle=337.htm](NO_MORE_IRP_STACK_LOCATIONS)
+    
 #### Important Books for Kernel and Driver Development
 
   - [Windows Kernel Programming (First Edition)](REbooks/Windows_Kernel_Programming_Pavel_Yosifovich.pdf) *(Available in the REbooks folder)*
@@ -280,6 +309,12 @@ This comprehensive roadmap provides a step-by-step guide for mastering reverse e
 - [Wilders Security Forums](https://www.wilderssecurity.com/)
 - [Malware Analysis Forums on Reddit](https://www.reddit.com/r/Malware/)
 - [VirusTotal Community](https://www.virustotal.com/gui/community)
+- [OSR Developer Community](https://community.osr.com)
+- [UnKnoWnCheaTs](https://www.unknowncheats.me/forum/index.php)
+- [Reverse Engineering - Stack exchange](https://reverseengineering.stackexchange.com/)
+- [ru-board](http://forum.ru-board.com)
+- [R0](https://forum.reverse4you.org/categories)
+- [CrackLab](https://cracklab.team/index.php)
 
 ### Tools and Software
 - [IDA Pro](https://www.hex-rays.com/products/ida/)
