@@ -6,11 +6,10 @@ Welcome to the comprehensive roadmap for mastering reverse engineering and malwa
 
 ## Foundations
 ### 0x00 Establishing a Secure Lab Environment
-- [Reverse Engineering For Everyone!](https://0xinfection.github.io/reversing/)
-- [Malware Analysis Virtual Machine – by OALabs](https://www.youtube.com/watch?v=ql9D5MuK_3c)
-- [Creating a Simple Free Malware Analysis Environment – by MalwareTech](https://www.malwaretech.com/beginner-malware-reversing-challenges)
+- [Build a Malware Analysis Lab (Self-Hosted & Cloud) - The Malware Analysis Project 101](https://youtu.be/rmSIm3BKu3Y)
 
 ### 0x01 Mastering Reverse Engineering Tools
+- [Reverse Engineering For Everyone!](https://0xinfection.github.io/reversing/)
 - [Reversing with Lena151  – learn OllyDbg (old, but still very useful)](https://github.com/kosmokato/Lena151)
 - [REVERSING WITH IDA PRO FROM SCRATCH](http://ricardonarvaja.info/WEB/IDA%20DESDE%20CERO/EN%20INGLES/INGLES/)
 - [Introduction to Windbg and debugging windows](https://www.youtube.com/playlist?list=PLhx7-txsG6t6n_E2LgDGqgvJtCHPL7UFu)
@@ -125,10 +124,23 @@ After all this learning, you can now start with these essential books on **Rever
   - way one : https://medium.com/@dbragetti/unpacking-malware-685de7093e5
   - way two : https://www.travismathison.com/posts/Manually-unpacking-malware/
 - [manual unpacking](https://www.youtube.com/playlist?list=PLt9cUwGw6CYGfoSL9PUlpKi23z0_R2gz-)
+- [Malware Analysis - ConfuserEx 2 Deobfuscation with Python and dnlib, BBTok Loader](https://www.youtube.com/watch?v=Pjy50g6naMU)
+- [Unpacking UPX packer](https://0xh3xa.github.io/defensive/unpack-upx/)
+- [How to unpack UPX packed malware with a SINGLE breakpoint](https://infosecwriteups.com/how-to-unpack-upx-packed-malware-with-a-single-breakpoint-4d3a23e21332)
+- [LLVM-powered deobfuscation of virtualized binaries](https://blog.thalium.re/posts/llvm-powered-devirtualization/)
+- [Automating Malware Deobfuscation with Binary Ninja - Writing a Static Unpacker](https://cfp.recon.cx/media/recon2024/submissions/DDHBFN/resources/Slides_-_Automating_Malware_Deobfuscation_with_Bi_2dAAJCN.pdf)
+- [How To Quickly Unpack Qbot Loader Malware](https://youtu.be/9EkRW6rh6DI)
+- [Anti-UPX Unpacking Technique - explains the details of Anti-UPX Unpacking technique, which is often applied to Linux-targeting malware](https://blogs.jpcert.or.jp/en/2022/03/anti_upx_unpack.html)
+- [x64Unpack: Hybrid Emulation Unpacker for 64-bit Windows Environments and Detailed Analysis Results on VMProtect 3.4](https://ieeexplore.ieee.org/abstract/document/9139515)
+- 
+  - soon ill add more pdf related to unpacking cs links are limited resource...
 
+  
 ## Advanced Techniques
 ### 0x09 Virtualization-based Protectors
 - [Workshop: VM-based Obfuscation Analysis](https://synthesis.to/2021/10/21/vm_based_obfuscation.html)
+- [Tigress: Virtualization-Based Software Obfuscation Pt. 1](https://www.mitchellzakocs.com/blog/tigress)
+- [VMProtect 3: Virtualization-Based Software Obfuscation Pt. 2](https://www.mitchellzakocs.com/blog/vmprotect3)
 - [Discussion on reverse engineering virtualization](https://www.youtube.com/watch?v=PAG3M7mWT2c&t=13229s)
 - [VMProtect 2 – Detailed Analysis of the Virtual Machine Architecture](https://www.tetraph.com/security/vulnerability-scanning/vmprotect-2-detailed-analysis-virtual-machine-architecture/)
 - [VMProtect 2 – Part Two, Complete Static Analysis](https://www.tetraph.com/security/vulnerability-scanning/vmprotect-2-part-two-complete-static-analysis/)
@@ -239,7 +251,8 @@ Once you’ve gone through these foundational resources, you’ll have a better 
 
 ### 0x0c Going Deeper
 - [Malware infecting MBR, bootkits, and UEFI firmware](https://securelist.com/bootkits-the-ultimate-in-persistent-malware/58221/)
-
+- [UEFI Reverse Engineering, Vulnerability Discovery, and Exploit Development](https://www.leviathansecurity.com/blog/uefi-is-the-new-bios)
+  
 ## Learning Resources
 ### 0x0d Courses and Tutorials
 - [Mytechnotalent's Reverse Engineering Repository](https://github.com/mytechnotalent/Reverse-Engineering)
