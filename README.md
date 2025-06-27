@@ -47,6 +47,7 @@ Welcome to the comprehensive roadmap for mastering reverse engineering and malwa
   + [Windows Stack Protection III: Limitations of ASLR](https://www.bowneconsultingcontent.com//pub/EH/proj/cloud/ED303c_tkp/ED303c_tkp.htm) 
   + [The Wild World of Windows](https://samsclass.info/127/lec/EDch6.pdf)
 
+- [Material for Reverse Engineering Malware Practical Examples (2020 Jason Reaves)](./ObfuscationRes/RE_mpe.pdf)
 - [Beginner Malware Reversing Challenges (by Malware Tech)](https://github.com/MalwareTech/Beginner-Reversing-Challenges)
 - [solve the Malwarebytes CrackMe: a step-by-step tutorial](https://www.malwarebytes.com/blog/news/2017/11/how-to-solve-the-malwarebytes-crackme-a-step-by-step-tutorial)
 - [MalwareTech Windows Reversing Challenge #1 Write-Ups](https://irfanalditya.github.io/posts/malwaretech-chal1/)
