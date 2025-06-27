@@ -287,7 +287,7 @@ Once you’ve gone through these foundational resources, you’ll have a better 
     - [Techniques of Program Code Obfuscation for Secure Software](./ObfuscationRes/Techniques_of_Program_Code_Obfuscation_for_Secure_.pdf)
     - [A Tutorial on Software Obfuscation](./ObfuscationRes/Orca.pdf)
     - [CODE OBFUSCATION AND VIRUS DETECTION](./ObfuscationRes/Code%20obfuscation%20and%20virus%20detection.pdf)
-
+    - [Software Obfuscation with Non-Linear Mixed Boolean-Arithmetic Expressions](./ObfuscationRes/ObfMBA.pdf)
 
 ### 0x0e YouTube Channels and Videos
 - [Malware Analysis For Hedgehogs](https://www.youtube.com/channel/UCVFXrUwuWZ3Uk6ZuIzP5RvQ)
