@@ -162,7 +162,8 @@ After all this learning, you can now start with these essential books on **Rever
 - [Virtual Machine RE-building](./ObfuscationRes/Virtual%20Machine%20RE-building.pdf)
 - [Breaking State-of-the-Art Binary Code Obfuscation via Program Synthesis](./ObfuscationRes/The-Art-Binary-Code-Obfuscation-Via-Program-Synthesis.pdf)
 - [Advanced Binary Deobfuscation](./ObfuscationRes/Advanced-Binary-Deobfuscation.pdf)
-  
+- [Deobfuscation of Lumma Stealer](https://ryan-weil.github.io/posts/LUMMA-STEALER)
+
 ### 0x0a Malware Injection and Hooking
 - [A walk-through various techniques (by Endgame)](https://www.endgame.com/blog/technical-blog/ten-process-injection-techniques-technical-survey-common-and-trending-process)
 - [Ready-made demos of various code injection techniques (source code)](https://github.com/odzhan/injection)
@@ -289,6 +290,7 @@ Once you’ve gone through these foundational resources, you’ll have a better 
     - [CODE OBFUSCATION AND VIRUS DETECTION](./ObfuscationRes/Code%20obfuscation%20and%20virus%20detection.pdf)
     - [Software Obfuscation with Non-Linear Mixed Boolean-Arithmetic Expressions](./ObfuscationRes/ObfMBA.pdf)
     - [ COMBATING CONTROL FLOW FLATTENING IN .NET MALWARE](./ObfuscationRes/VB2022-Combating-control-flow-flattening-in-NET-malware.pdf)
+    - [Modern obfuscation techniques (Roman Oravec 2021)](./ObfuscationRes/ModernObfuscationTechniques.pdf)
 
 ### 0x0e YouTube Channels and Videos
 - [Malware Analysis For Hedgehogs](https://www.youtube.com/channel/UCVFXrUwuWZ3Uk6ZuIzP5RvQ)
