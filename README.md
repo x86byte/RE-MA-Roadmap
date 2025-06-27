@@ -1,6 +1,7 @@
 # RE-MA-Roadmap
 # [Reverse Engineering and Malware Analysis Roadmap](https://x86byte.github.io/x86byte_kpwn/articles/re-ma-roadmap.html)
-![image](https://github.com/user-attachments/assets/746914e3-f4b3-46de-9ed0-e3f282ac311a)
+![image](https://github.com/user-attachments/assets/6d8c7398-972b-4e81-a33e-225d4ae159b9)
+
 
 Welcome to the comprehensive roadmap for mastering reverse engineering and malware analysis. This roadmap is designed to guide individuals from beginner to expert level in the field of reverse engineering and malware analysis.
 
