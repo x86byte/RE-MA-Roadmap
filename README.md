@@ -13,6 +13,8 @@ Welcome to the comprehensive roadmap for mastering reverse engineering and malwa
 - [Reversing with Lena151  – learn OllyDbg (old, but still very useful)](https://github.com/kosmokato/Lena151)
 - [REVERSING WITH IDA PRO FROM SCRATCH](http://ricardonarvaja.info/WEB/IDA%20DESDE%20CERO/EN%20INGLES/INGLES/)
 - [Introduction to Windbg and debugging windows](https://www.youtube.com/playlist?list=PLhx7-txsG6t6n_E2LgDGqgvJtCHPL7UFu)
+- [Writing IDA plugins in C/C++](./REbooks/IdaC%2B%2B.pdf)
+  - reference : https://cpp.docs.hex-rays.com/index.html
 
 ## Gathering Intelligence
 ### 0x02 Sourcing Malware Samples
