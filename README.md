@@ -159,6 +159,7 @@ After all this learning, you can now start with these essential books on **Rever
 - [Dealing with Virtualization packer](./ObfuscationRes/boris_lau_virtualization_obfs.pdf)
 - [Unpacking Virtualization Obfuscators](./ObfuscationRes/Unpacking%20Virtualization%20Obfuscators.pdf)
 - [Virtual Machine RE-building](./ObfuscationRes/Virtual%20Machine%20RE-building.pdf)
+- [Breaking State-of-the-Art Binary Code Obfuscation via Program Synthesis](./ObfuscationRes/The-Art-Binary-Code-Obfuscation-Via-Program-Synthesis.pdf)
 
 ### 0x0a Malware Injection and Hooking
 - [A walk-through various techniques (by Endgame)](https://www.endgame.com/blog/technical-blog/ten-process-injection-techniques-technical-survey-common-and-trending-process)
