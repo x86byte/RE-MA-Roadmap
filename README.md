@@ -160,7 +160,8 @@ After all this learning, you can now start with these essential books on **Rever
 - [Unpacking Virtualization Obfuscators](./ObfuscationRes/Unpacking%20Virtualization%20Obfuscators.pdf)
 - [Virtual Machine RE-building](./ObfuscationRes/Virtual%20Machine%20RE-building.pdf)
 - [Breaking State-of-the-Art Binary Code Obfuscation via Program Synthesis](./ObfuscationRes/The-Art-Binary-Code-Obfuscation-Via-Program-Synthesis.pdf)
-
+- [Advanced Binary Deobfuscation](./ObfuscationRes/Advanced-Binary-Deobfuscation.pdf)
+  
 ### 0x0a Malware Injection and Hooking
 - [A walk-through various techniques (by Endgame)](https://www.endgame.com/blog/technical-blog/ten-process-injection-techniques-technical-survey-common-and-trending-process)
 - [Ready-made demos of various code injection techniques (source code)](https://github.com/odzhan/injection)
@@ -281,7 +282,12 @@ Once you’ve gone through these foundational resources, you’ll have a better 
     - [Practical Obfuscating Programs](./ObfuscationRes/Practical%20Obfuscating%20Programs.PDF)
     - [Program Obfuscation](./ObfuscationRes/Program%20Obfuscation.PDF)
     - [Invoke-Obfuscation: PowerShell obFUsk8tion Techniques & How To (Try To) D""e`Tec`T 'Th'+'em'](./ObfuscationRes/invoke-obfuscation-nullcon.pdf)
-  
+    - [Obfuscation-based Malware Update: A comparison of Manual and Automated Methods](./ObfuscationRes/bebc0c4c5dcfb3ffd41ac701adafe88d85ce.pdf)
+    - [Techniques of Program Code Obfuscation for Secure Software](./ObfuscationRes/Techniques_of_Program_Code_Obfuscation_for_Secure_.pdf)
+    - [A Tutorial on Software Obfuscation](./ObfuscationRes/Orca.pdf)
+    - [CODE OBFUSCATION AND VIRUS DETECTION](./ObfuscationRes/Code%20obfuscation%20and%20virus%20detection.pdf)
+
+
 ### 0x0e YouTube Channels and Videos
 - [Malware Analysis For Hedgehogs](https://www.youtube.com/channel/UCVFXrUwuWZ3Uk6ZuIzP5RvQ)
 - [OALabs](https://www.youtube.com/c/OALabs/videos)
