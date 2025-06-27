@@ -288,6 +288,7 @@ Once you’ve gone through these foundational resources, you’ll have a better 
     - [A Tutorial on Software Obfuscation](./ObfuscationRes/Orca.pdf)
     - [CODE OBFUSCATION AND VIRUS DETECTION](./ObfuscationRes/Code%20obfuscation%20and%20virus%20detection.pdf)
     - [Software Obfuscation with Non-Linear Mixed Boolean-Arithmetic Expressions](./ObfuscationRes/ObfMBA.pdf)
+    - [ COMBATING CONTROL FLOW FLATTENING IN .NET MALWARE](./ObfuscationRes/VB2022-Combating-control-flow-flattening-in-NET-malware.pdf)
 
 ### 0x0e YouTube Channels and Videos
 - [Malware Analysis For Hedgehogs](https://www.youtube.com/channel/UCVFXrUwuWZ3Uk6ZuIzP5RvQ)
