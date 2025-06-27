@@ -15,6 +15,8 @@ Welcome to the comprehensive roadmap for mastering reverse engineering and malwa
 - [Introduction to Windbg and debugging windows](https://www.youtube.com/playlist?list=PLhx7-txsG6t6n_E2LgDGqgvJtCHPL7UFu)
 - [Writing IDA plugins in C/C++](./REbooks/IdaC%2B%2B.pdf)
   - reference : https://cpp.docs.hex-rays.com/index.html
+- [IDA Plugin Writing in C++ v1.1](./REbooks/IDA%20Plugin%20Writing%20in%20C%2B%2B%20v1.1.rar)
+- [IDA Plugin Writing in C++](./REbooks/IDA%20Plugin%20Writing%20in%20C%2B%2B.rar)
 
 ## Gathering Intelligence
 ### 0x02 Sourcing Malware Samples
