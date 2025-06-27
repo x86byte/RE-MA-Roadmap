@@ -56,6 +56,7 @@ Welcome to the comprehensive roadmap for mastering reverse engineering and malwa
 - [Crackmes.one – various crackmes to help you exercise reversing](https://crackmes.one/)
 - ["Nightmare" – a reverse engineering course created around CTF tasks](https://github.com/guyinatuxedo/nightmare)
 - [FlareOn Challenge writeups](https://github.com/fareedfauzi/Flare-On-Challenges)
+- [Devil is Virtual: Reversing Virtual Inheritance in C++ Binaries](./ObfuscationRes/2003.05039v2.pdf)
 
 ## Understanding Low-Level Concepts
 ### 0x06 Assembly Language and PE Format
@@ -74,6 +75,7 @@ Welcome to the comprehensive roadmap for mastering reverse engineering and malwa
 - [Understanding Windows PE Files](https://0xrick.github.io/win-internals/pe1/)
 - [Binary Analysis Cookbooks](https://binary.ninja/cookbook/)
 - [Windows PE Parsing with Python](https://www.contextis.com/en/blog/malware-analysis-windows-pe-file-parsing-python)
+- [Automation Techniques in C++ Reverse Engineering](./ObfuscationRes/CPP-Dynamic-Type-Recovery.pdf)
 
 ### Additional Assembly Resources
 - [Modern x64 Assembly](https://www.youtube.com/playlist?list=PLKK11Ligqitg9MOX3-0tFT1Rmh3uJp7kA)
@@ -137,8 +139,10 @@ After all this learning, you can now start with these essential books on **Rever
 - [How To Quickly Unpack Qbot Loader Malware](https://youtu.be/9EkRW6rh6DI)
 - [Anti-UPX Unpacking Technique - explains the details of Anti-UPX Unpacking technique, which is often applied to Linux-targeting malware](https://blogs.jpcert.or.jp/en/2022/03/anti_upx_unpack.html)
 - [x64Unpack: Hybrid Emulation Unpacker for 64-bit Windows Environments and Detailed Analysis Results on VMProtect 3.4](https://ieeexplore.ieee.org/abstract/document/9139515)
-- 
-  - soon ill add more pdf related to unpacking cs links are limited resource...
+- [The Art Of Unpacking part 1](./ObfuscationRes/The%20Art%20of%20Unpacking%20-%20Part1.pdf)
+- [The Art Of Unpacking part 2](./ObfuscationRes/The%20Art%20of%20Unpacking%20-%20Part2.pdf)
+- [Statically Unpacking Shellcode-based PE Loaders](./ObfuscationRes/Statically%20Unpacking%20Shellcode-based%20PE%20Loaders.pdf)
+- [DOSfuscation: Exploring the Depths of Cmd.exe Obfuscation and Detection Techniques](./ObfuscationRes/invoke_dosfuscation_techniques_for_fin_style_dos_level_cmd_obfuscation.pdf)
 
   
 ## Advanced Techniques
@@ -152,6 +156,9 @@ After all this learning, you can now start with these essential books on **Rever
 - [SpeakEasy: a writeup solving a challenge from UIUCTF 2021](https://medium.com/@acheron2302/speakeasy-writeup-3af3375ab63)
 - [Tickling VMProtect with LLVM](https://www.synthesis.to/2021/10/21/vm_based_obfuscation.html)
 - [Cracking programs with custom virtualization-based protectors](https://www.malwaretech.com/challenges/windows-reversing/vm1)
+- [Dealing with Virtualization packer](./ObfuscationRes/boris_lau_virtualization_obfs.pdf)
+- [Unpacking Virtualization Obfuscators](./ObfuscationRes/Unpacking%20Virtualization%20Obfuscators.pdf)
+- [Virtual Machine RE-building](./ObfuscationRes/Virtual%20Machine%20RE-building.pdf)
 
 ### 0x0a Malware Injection and Hooking
 - [A walk-through various techniques (by Endgame)](https://www.endgame.com/blog/technical-blog/ten-process-injection-techniques-technical-survey-common-and-trending-process)
@@ -269,6 +276,11 @@ Once you’ve gone through these foundational resources, you’ll have a better 
 - [Building C2 implants in C++](https://malwareunicorn.org/workshops.html)
 - [Hasherezade's malware training repository](https://github.com/hasherezade/malware_training_vol1)
 
+  ### - Obfuscation
+    - [Practical Obfuscating Programs](./ObfuscationRes/Practical%20Obfuscating%20Programs.PDF)
+    - [Program Obfuscation](./ObfuscationRes/Program%20Obfuscation.PDF)
+    - [Invoke-Obfuscation: PowerShell obFUsk8tion Techniques & How To (Try To) D""e`Tec`T 'Th'+'em'](./ObfuscationRes/invoke-obfuscation-nullcon.pdf)
+  
 ### 0x0e YouTube Channels and Videos
 - [Malware Analysis For Hedgehogs](https://www.youtube.com/channel/UCVFXrUwuWZ3Uk6ZuIzP5RvQ)
 - [OALabs](https://www.youtube.com/c/OALabs/videos)
