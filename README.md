@@ -163,6 +163,8 @@ After all this learning, you can now start with these essential books on **Rever
 - [Breaking State-of-the-Art Binary Code Obfuscation via Program Synthesis](./ObfuscationRes/The-Art-Binary-Code-Obfuscation-Via-Program-Synthesis.pdf)
 - [Advanced Binary Deobfuscation](./ObfuscationRes/Advanced-Binary-Deobfuscation.pdf)
 - [Deobfuscation of Lumma Stealer](https://ryan-weil.github.io/posts/LUMMA-STEALER)
+- [Analyzing Mutation-Coded - VM Protect and Alcatraz English](https://hackyboiz.github.io/2025/09/11/banda/LLVM_based_VMP/en/)
+- [ESET’S GUIDE TO DEOBFUSCATING AND DEVIRTUALIZING FINFISHER](./ObfuscationRes/WP-FinFisher.pdf)
 
 ### 0x0a Malware Injection and Hooking
 - [A walk-through various techniques (by Endgame)](https://www.endgame.com/blog/technical-blog/ten-process-injection-techniques-technical-survey-common-and-trending-process)
@@ -291,6 +293,10 @@ Once you’ve gone through these foundational resources, you’ll have a better 
     - [Software Obfuscation with Non-Linear Mixed Boolean-Arithmetic Expressions](./ObfuscationRes/ObfMBA.pdf)
     - [ COMBATING CONTROL FLOW FLATTENING IN .NET MALWARE](./ObfuscationRes/VB2022-Combating-control-flow-flattening-in-NET-malware.pdf)
     - [Modern obfuscation techniques (Roman Oravec 2021)](./ObfuscationRes/ModernObfuscationTechniques.pdf)
+    - [Breaking Mixed Boolean-Arithmetic Obfuscation in Real-World Applications by the goat Tim Blazytko](./ObfuscationRes/recon25_mba_obfuscation.pdf)
+    - [Seeing through obfuscation: interactive detection and removal of opaque predicates](./ObfuscationRes/thesis.pdf)
+    - [Technical Challenges of Indirect Control Flow](https://codedefender.io/blog/2024/07/02/)
+    - [MODERN MALWARE: OBFUSCATION AND EMULATION DEF CON CHINA 1.0 (2019)](./ObfuscationRes/DEFCON_CHINA_ALEXANDRE.pdf)
 
 ### 0x0e YouTube Channels and Videos
 - [Malware Analysis For Hedgehogs](https://www.youtube.com/channel/UCVFXrUwuWZ3Uk6ZuIzP5RvQ)
