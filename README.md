@@ -163,7 +163,8 @@ After all this learning, you can now start with these essential books on **Rever
 - [Breaking State-of-the-Art Binary Code Obfuscation via Program Synthesis](./ObfuscationRes/The-Art-Binary-Code-Obfuscation-Via-Program-Synthesis.pdf)
 - [Advanced Binary Deobfuscation](./ObfuscationRes/Advanced-Binary-Deobfuscation.pdf)
 - [Deobfuscation of Lumma Stealer](https://ryan-weil.github.io/posts/LUMMA-STEALER)
-- [Analyzing Mutation-Coded - VM Protect and Alcatraz English](https://hackyboiz.github.io/2025/09/11/banda/LLVM_based_VMP/en/)
+- [Analyzing Mutation-Coded - VM Protect and Alcatraz English](https://keowu.re/posts/Analyzing-Mutation-Coded-VM-Protect-and-Alcatraz-English/)
+- [[Research] LLVM based VMProtect Devirtualization: Part 1 (EN)](https://hackyboiz.github.io/2025/09/11/banda/LLVM_based_VMP/en/)
 - [ESET’S GUIDE TO DEOBFUSCATING AND DEVIRTUALIZING FINFISHER](./ObfuscationRes/WP-FinFisher.pdf)
 
 ### 0x0a Malware Injection and Hooking
