@@ -298,6 +298,7 @@ Once you’ve gone through these foundational resources, you’ll have a better 
     - [Seeing through obfuscation: interactive detection and removal of opaque predicates](./ObfuscationRes/thesis.pdf)
     - [Technical Challenges of Indirect Control Flow](https://codedefender.io/blog/2024/07/02/)
     - [MODERN MALWARE: OBFUSCATION AND EMULATION DEF CON CHINA 1.0 (2019)](./ObfuscationRes/DEFCON_CHINA_ALEXANDRE.pdf)
+    - [OPAQUE PREDICATE: ATTACK AND DEFENSE IN OBFUSCATED BINARY CODE](./ObfuscationRes/OPAQUE.pdf)
 
 ### 0x0e YouTube Channels and Videos
 - [Malware Analysis For Hedgehogs](https://www.youtube.com/channel/UCVFXrUwuWZ3Uk6ZuIzP5RvQ)
